@@ -4,8 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("5, 7", '"Hello, World!"');
+console.log("bye");
+console.log(sum = 5 + 2);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
